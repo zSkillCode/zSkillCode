@@ -1,4 +1,6 @@
 <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zskillcode&show_icons=true&theme=gruvbox&hide_border=true" />
+<br/>
 <p align="left">
   <a href="https://skillcode.dev">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zskillcode&show_icons=true&theme=gruvbox&hide_border=true" />
