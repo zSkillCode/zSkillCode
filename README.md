@@ -105,19 +105,19 @@
   <h3><b>🌐 My Socials</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
+<a href="https://www.youtube.com/channel/UCF0CrBkKgyGuM9ASbANBuGw" target="_blank">
   <img align="center" alt="YT" width="40px" src="https://img.icons8.com/color/100/000000/youtube-play.png" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/_DHANOLA" target="_blank">
+<a href="https://www.instagram.com/sk1llcode/" target="_blank">
   <img align="center" alt="Instagram" width="40px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
+<a href="#" target="_blank">
   <img align="center" alt="Facebook" width="40px" src="https://img.icons8.com/color/96/000000/facebook-new.png" />
 </a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
+<a href="https://www.twitch.tv/zskillcode" >
   <img align="center" alt="Twitch" width="40px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
+<a href="https://discord.gg/pEea5Tm94J">
     <img align="center" alt="Discord" width="40px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
 </a> &nbsp;&nbsp;
 <p>
