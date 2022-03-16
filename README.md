@@ -2,6 +2,7 @@
 
 - 🥳 &nbsp; December 31, 2004 (17 y/o)
 - 🇩🇪 &nbsp; Living in Germany 
+- 📖 &nbsp; Learning AI (Machine Learning and Deep Learning)
 
 
 <br>
