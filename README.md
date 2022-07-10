@@ -1,6 +1,6 @@
 ### 💻 &nbsp;About Me 
 
-- 🥳 &nbsp; December 31, 2004 (17 y/o)
+- 🎉 &nbsp; December 31, 2004 (17 y/o)
 - 🏠 &nbsp; Living in Germany 
 - 📖 &nbsp; Learning Game Development
 
