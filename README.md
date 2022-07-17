@@ -4,24 +4,16 @@
 - 🏠 &nbsp; Living in Germany 
 - 📖 &nbsp; Learning Game Development
 
+![profile](https://discord.c99.nl/widget/theme-3/524632513214414858.png)
 <br>
-
-
-
-
-
 
 ### 💻 My Stats
-
 <br>
   
-  <p  align="center">
+<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
-
-  
-  
   
 <table border="0" align="center">
 <tr border="0">
@@ -45,24 +37,9 @@
 
 <br>
 
-
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
                                                                                     
-
-
-
-
-
-
-
-
-
 
 <br>
 <p align="center">
@@ -76,11 +53,6 @@
 <br>
 
  <hr>
-
-
-
-
-
 
 <br>
 <p align="centre">
