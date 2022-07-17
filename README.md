@@ -4,7 +4,7 @@
 - 🏠 &nbsp; Living in Germany 
 - 📖 &nbsp; Learning Game Development
 
-<br>
+<br><br>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-3/524632513214414858.png">
 </p>
