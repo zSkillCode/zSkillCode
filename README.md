@@ -4,7 +4,10 @@
 - 🏠 &nbsp; Living in Germany 
 - 📖 &nbsp; Learning Game Development
 
-![profile](https://discord.c99.nl/widget/theme-3/524632513214414858.png)
+<br>
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-3/524632513214414858.png">
+</p>
 <br>
 
 ### 💻 My Stats
