@@ -132,16 +132,6 @@
   <img src="https://profile-counter.glitch.me/zskillcode/count.svg" />  
 </p>
 <br>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-<br>
-
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
