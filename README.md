@@ -2,6 +2,7 @@
 
 - 🎉 &nbsp; December 31, 2004 (18 y/o)
 - 🏠 &nbsp; Living in Germany 
+- 🧑‍💻 &nbsp; Learning App Development (for the Apple Ecosystem)
 
 <br><br>
 <p align="center">
