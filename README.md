@@ -59,15 +59,14 @@
 
 <br>
 <p align="centre">
+
+<p  align="center">
+                  
+<br>
+
+### 😂 &nbsp;Random Joke
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zskillcode&theme=react-dark&hide_border=true&area=true)  </p>
-
-
-
-
-
-
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
  <br> 
  
