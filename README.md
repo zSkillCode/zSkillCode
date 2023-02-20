@@ -5,18 +5,14 @@
 - 🧑‍💻 &nbsp; Learning App Development (for the Apple Ecosystem)
 
 <br><br>
-<p align="center">
 <img src="https://discord.c99.nl/widget/theme-1/524632513214414858.png">
-</p>
 <br>
 
 ### 💻 My Stats
 <br>
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 <p  align="center">
-                  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
   <br>
   
 <table border="0" align="center">
