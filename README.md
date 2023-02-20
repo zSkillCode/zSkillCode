@@ -7,6 +7,7 @@
 <br><br>
 <img src="https://discord.c99.nl/widget/theme-1/524632513214414858.png">
 <br>
+<br>
 
 ### 💻 My Stats
 <br>
