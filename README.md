@@ -91,7 +91,7 @@
 <a href="https://www.twitch.tv/zskillcode" >
   <img align="center" alt="Twitch" width="40px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" />
 </a> &nbsp;&nbsp;
-<a href="https://discord.gg/pEea5Tm94J">
+<a href="https://discord.skillcode.dev">
     <img align="center" alt="Discord" width="40px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
 </a> &nbsp;&nbsp;
 <p>
