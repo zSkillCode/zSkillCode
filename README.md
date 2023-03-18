@@ -5,7 +5,9 @@
 - 🧑‍💻 &nbsp; Learning App Development (for the Apple Ecosystem)
 
 <br><br>
-<img src="https://discord.c99.nl/widget/theme-1/524632513214414858.png">
+<a href="https://discord.skillcode.dev">
+  <img src="https://discord.c99.nl/widget/theme-1/524632513214414858.png">
+</a>
 <br>
 <br>
 
