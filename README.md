@@ -1,7 +1,8 @@
 ### 💻 &nbsp;About Me 
 
 - 🎉 &nbsp; December 31, 2004 (18 y/o)
-- 🏠 &nbsp; Living in Germany 
+- 🏠 &nbsp; Living in Berlin, Germany
+- 🖥️ &nbsp; Learning fullstack web development
 
 <br><br>
 <a href="https://discord.skillcode.dev">
@@ -62,20 +63,7 @@
 <p  align="center">
                   
 <br>
-
-### 😂 &nbsp;Random Joke
  
-  <br>
-  <br>
-  
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
- <br> 
- 
- <hr>
- 
- <br>
-
   <div align="center">
   <h3><b>🌐 My Socials</b></h3>
   </div>
