@@ -71,12 +71,6 @@
 <a href="https://www.youtube.com/channel/UCF0CrBkKgyGuM9ASbANBuGw" target="_blank">
   <img align="center" alt="YT" width="40px" src="https://img.icons8.com/color/100/000000/youtube-play.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/sk1llcode/" target="_blank">
-  <img align="center" alt="Instagram" width="40px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />
-</a> &nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img align="center" alt="Facebook" width="40px" src="https://img.icons8.com/color/96/000000/facebook-new.png" />
-</a> &nbsp;&nbsp;
 <a href="https://www.twitch.tv/zskillcode" >
   <img align="center" alt="Twitch" width="40px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" />
 </a> &nbsp;&nbsp;
