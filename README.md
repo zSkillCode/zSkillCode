@@ -1,6 +1,6 @@
 ### 💻 &nbsp;About Me
 
-- 🎉 &nbsp; December 31, 2004 (18 y/o)
+- 🎉 &nbsp; December 31, 2004 (19 y/o)
 - 🏠 &nbsp; Living in Berlin, Germany
 - 🖥️ &nbsp; Learning fullstack web development
 
